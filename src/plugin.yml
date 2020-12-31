@@ -1,0 +1,5 @@
+main: pg.Pot4toLord.RandomCrafter
+name: Randomizer_Plugin
+description: Randomizer minecraft plugin
+version: 1.0
+api-version: 1.13

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RandomizerPluginProject:jar">
+    <output-path>$USER_HOME$/Desktop/SpigotServer/plugins</output-path>
+    <root id="archive" name="RandomizerPluginProject.jar">
+      <element id="module-output" name="RandomizerPluginProject" />
+    </root>
+  </artifact>
+</component>
